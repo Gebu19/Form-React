@@ -13,6 +13,7 @@ function App() {
       <Routes >
         
         <Route path='/' element={<Register/>}/>
+        <Route path='/deployFormRefReact/' element={<Register/>}/>
       
       </Routes>
     </>
